@@ -2,7 +2,9 @@
 
 | Day | Topics |
 |---|---|
-|[Day 1](https://github.com/Arshapjoy/computer_vision_genai/tree/main/Day_1)|   |
+|[Day 1](https://github.com/Arshapjoy/computer_vision_genai/tree/main/Day_1)| Installation-Anaconda, VScode, Colab, Virtual Environment  |
+|---|---|
 |  |  |
+|---|---|
 |  |  |
-|  |  |
+|---|---|
