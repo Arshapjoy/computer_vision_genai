@@ -1,0 +1,3 @@
+| Assignment | Date | Details |
+|------------|----------------|----------|
+| Assignment 1 | 24-11-24    | **Task:** Record a video or download a timelapse video showing a clear transition of day to evening, evening to night, or night to morning/day.<br>**Video Conditions (choose any one):**<br>1. Day to evening<br>2. Evening to night<br>3. Night to morning/day<br>**Input:** Video file path<br>**Expected Output:**<br>- 40% is Day/Evening, 60% is Night/Evening<br>- 20% Early morning, 10% night, 70% Day<br>**Example Video:** [Timelapse Example](https://www.youtube.com/watch?v=jNEjw1fMk-8)<br>**Submission Deadline:** Next week Sunday |
