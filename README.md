@@ -1,4 +1,9 @@
-### Computer Vision with Generative AI
+### Hello, Welcome to my Computer Vision with Generative AI repository
+This repo will be updated with every resources from the computer vision bootcamp and checkout the table below for further details.
+
+---------------------------------------------------------------------
+
+![intro image](https://github.com/Arshapjoy/computer_vision_genai/blob/main/img/Computer%20Vision%20with%20Gen%20AI.png)
 
 | Day | Topics |
 |---|---|
